@@ -17,3 +17,4 @@ Classifier using scitkit-learn classifiers to predict Amazon Ratings based on th
 | Naive Bayes            | 0.6965   |
 | Decision Trees         | 0.7004   |
 | Random Forest          | 0.6998   |
+| TensorFlow             | 0.7130   |
